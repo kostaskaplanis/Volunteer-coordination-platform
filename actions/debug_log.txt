@@ -1,0 +1,6 @@
+Array
+(
+    [product_name] => Sardines
+    [updatedQuantity] => 5
+    [type] => offer
+)

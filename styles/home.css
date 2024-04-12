@@ -1,0 +1,9 @@
+.header{
+    display:flexbox;
+    text-align:justify left;
+    
+}
+img{
+    width:100px;
+    height:100px;
+}

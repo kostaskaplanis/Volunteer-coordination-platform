@@ -1,0 +1,70 @@
+
+
+/* Add padding to containers */
+
+.container {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 16px;
+}
+
+#logo{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 60%;
+  
+}
+/* Full-width input fields */
+input[type=text],input[type=phone], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  
+}
+
+input[type=text]:focus,input[type=phone]:focus , input[type=password]:focus {
+  background-color: rgb(213, 108, 28);
+  outline: none;
+  border-radius: 10px;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+h3{
+  text-align: center;
+}
+button{
+  display: block;
+  font-style: bold;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  background-color: rgb(213, 108, 28);
+  cursor: pointer;
+  color: white;
+  opacity: 0.9;
+  width: 200px;
+  height: 50px;
+  border-radius: 15px;
+}
+
+button:hover{
+  opacity: 1;
+}
+
+footer{
+  text-align: center;
+}

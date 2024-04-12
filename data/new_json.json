@@ -1,0 +1,16 @@
+{
+    "code": 1,
+    "message": "Retrieved successfully",
+    "items": [
+        {
+            "id": "1000",
+            "name": "SCREWDRIVER",
+            "category": "50"
+        }],
+        
+    "categories": [
+            {
+                "id": "50",
+                "category_name": "ERGALEIA"
+            }]
+}
