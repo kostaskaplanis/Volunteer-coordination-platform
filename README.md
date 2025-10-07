@@ -35,8 +35,8 @@ Experience the platform [here](https://rescuers.kostaskaplanis.gr/) and join us 
 
 | Full Name                 | ID      | Email                   | Github                                        |
 | ------------------------- | ------- | ----------------------- | --------------------------------------------- |
-| Kostantinos Kaplanis      | 1080447 | contact@kostaskaplanis.gr | [Link](https://github.com/kostaskaplanis2001) |
-| Vaggelis Mpenetos         | 1072628 | ac1072628@ac.upatras.gr | Coming Soon!     |
+| Kostantinos Kaplanis      | 1080447 | contact@kostaskaplanis.gr | [Link](https://github.com/kostaskaplanis) |
+| Vaggelis Mpenetos         | 1072628 | ac1072628@ac.upatras.gr | [Link](https://github.com/vaggelhsmpenetos)     |
 | Konstantinos Tsiligiannis | 1084642 | ac1084642@ac.upatras.gr | [Link](https://github.com/KostasTsiligiannis) |
 
 Feel free to explore the platform and contribute to our efforts in disaster relief and support coordination!
